@@ -1,3 +1,6 @@
 # Class-VersionControl
-commit1
-2
+One
+Two
+Three
+Four
+
